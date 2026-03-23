@@ -11,7 +11,6 @@ I love exploring new ideas, turning wild concepts into working mods, and making 
 
 # Languages & Frameworks
 - Java
-- Spring Boot
 - Kotlin
 - HTML/CSS
 - JavaScript/TypeScript
